@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gwt-user">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.7.0-unyPatch1/gwt-user-2.7.0-unyPatch1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.7.0-unyPatch1/gwt-user-2.7.0-unyPatch1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
